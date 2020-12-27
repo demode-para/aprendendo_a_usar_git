@@ -7,3 +7,4 @@ passos para usar o github :
     6 - para salvar uma alteração, você precisa adicionar o arquivo novamente, e comitar, digitando 'git add <arquivo>'
     7 - crie um repositorio e pegue a url dele em https pelo github
     8 - depois você deve digitar "git remote add origin <url do repositorio github>
+    9 - para mandar arquivos para o repositorio deve digitar "git 
