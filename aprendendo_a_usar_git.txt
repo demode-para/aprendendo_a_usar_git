@@ -1,0 +1,5 @@
+passos para usar o github :
+    1 - crie uma pasta
+    2 - entre no local da pasta pelo terminal
+    3 - digite "git init"
+    4 - digite as configurações do repositorio usando "git.config user.name ${nome}", "git.config user.email ${email}"
