@@ -3,3 +3,5 @@ passos para usar o github :
     2 - entre no local da pasta pelo terminal
     3 - digite "git init"
     4 - digite as configurações do repositorio usando "git.config user.name ${nome}", "git.config user.email ${email}"
+    5 - adiciona arquivos ao repositorio digitando "git add ${arquivo}"
+    6 - para salvar uma alteração, você precisa adicionar o arquivo novamente, e comitar, digitando 'git add'
